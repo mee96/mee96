@@ -1,11 +1,18 @@
+<!-- ╭──────────────────────────────────────────────╮ -->
+<!--            Carme Medina · GitHub profile         -->
+<!-- ╰──────────────────────────────────────────────╯ -->
+
 <div align="center">
 
-# Carme Medina Canalda
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c5b9f0&height=190&section=header&text=Carme%20Medina%20Canalda&fontColor=2d1b6e&fontSize=40&desc=Junior%20Full%20Stack%20Developer%20%C2%B7%20Angular%20%2B%20FastAPI&descSize=18&descColor=2d1b6e&descAlignY=60" width="100%" alt="Carme Medina Canalda" />
 
-### Junior Full Stack Developer · Barcelona
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=B372CF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%F0%9F%8C%B8;Angular+%C2%B7+React+%C2%B7+FastAPI;Del+laboratorio+al+c%C3%B3digo;Buscando+mi+primera+oportunidad+%E2%9C%A8" alt="typing" />
 
-[![Portfolio](https://img.shields.io/badge/🌸_Portfolio-c5b9f0?style=for-the-badge&logoColor=2d1b6e)](https://portfolio-carme.vercel.app/)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌸_Portfolio-c5b9f0?style=for-the-badge&logoColor=2d1b6e)](https://carme-portfoli.onrender.com/)
 [![Email](https://img.shields.io/badge/📩_Email-f4b8d4?style=for-the-badge&logoColor=2d1b6e)](mailto:dev.mee96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a8c4f0?style=for-the-badge&logo=linkedin&logoColor=2d1b6e)](https://www.linkedin.com/in/carme-medina-canalda-250457132/)
 
 </div>
 
@@ -13,11 +20,11 @@
 
 ## ♥ Sobre mí
 
-Soy desarrolladora full stack con base en Barcelona, actualmente trabajando en **Fundació Esplai – Talent IT** mientras completo un FPO Dual en Full Stack Development.
+Soy desarrolladora **full stack** con base en Barcelona, actualmente en **Fundació Esplai – Talent IT** mientras completo un **FPO Dual en Full Stack Development**.
 
-Antes de entrar en tech fui **técnica de laboratorio especializada en análisis RIA/EIA** durante 3 años. Esa formación científica me dio una mentalidad analítica y metódica que aplico cada día al escribir código — leo los errores con la misma paciencia con la que leía resultados de ensayo.
+Antes de entrar en tech fui **técnica de laboratorio (análisis RIA/EIA)** durante 3 años. Esa formación científica me dejó una mentalidad analítica y metódica que aplico cada día al escribir código — leo los errores con la misma paciencia con la que leía resultados de ensayo. 🔬
 
-Construyo aplicaciones full stack con **Angular + FastAPI**, cuido mucho el detalle visual y me gusta que las cosas funcionen de verdad.
+Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA** (RAG, LLMs) cuando aporta valor, cuido el detalle visual y me gusta que las cosas funcionen de verdad. ✨
 
 ---
 
@@ -26,21 +33,26 @@ Construyo aplicaciones full stack con **Angular + FastAPI**, cuido mucho el deta
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-c5b9f0?style=for-the-badge&logo=angular&logoColor=2d1b6e)
 ![React](https://img.shields.io/badge/React-f4b8d4?style=for-the-badge&logo=react&logoColor=2d1b6e)
+![Next.js](https://img.shields.io/badge/Next.js-a8c4f0?style=for-the-badge&logo=nextdotjs&logoColor=2d1b6e)
 ![TypeScript](https://img.shields.io/badge/TypeScript-b8e8d4?style=for-the-badge&logo=typescript&logoColor=2d1b6e)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0e4a0?style=for-the-badge&logo=javascript&logoColor=2d1b6e)
+![Ionic](https://img.shields.io/badge/Ionic-c5b9f0?style=for-the-badge&logo=ionic&logoColor=2d1b6e)
 ![HTML5](https://img.shields.io/badge/HTML5-f4b8d4?style=for-the-badge&logo=html5&logoColor=2d1b6e)
-![CSS3](https://img.shields.io/badge/CSS3-a8c4f0?style=for-the-badge&logo=css3&logoColor=2d1b6e)
+![SCSS](https://img.shields.io/badge/SCSS-a8c4f0?style=for-the-badge&logo=sass&logoColor=2d1b6e)
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-c5b9f0?style=for-the-badge&logo=python&logoColor=2d1b6e)
 ![FastAPI](https://img.shields.io/badge/FastAPI-b8e8d4?style=for-the-badge&logo=fastapi&logoColor=2d1b6e)
-![WebSockets](https://img.shields.io/badge/WebSockets-f4b8d4?style=for-the-badge&logo=socketdotio&logoColor=2d1b6e)
 ![Node.js](https://img.shields.io/badge/Node.js-f0e4a0?style=for-the-badge&logo=nodedotjs&logoColor=2d1b6e)
+![WebSockets](https://img.shields.io/badge/WebSockets-f4b8d4?style=for-the-badge&logo=socketdotio&logoColor=2d1b6e)
 
-### Base de datos & Cloud
+### Base de datos, IA & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-c5b9f0?style=for-the-badge&logo=mysql&logoColor=2d1b6e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-a8c4f0?style=for-the-badge&logo=postgresql&logoColor=2d1b6e)
 ![Firebase](https://img.shields.io/badge/Firebase-f0e4a0?style=for-the-badge&logo=firebase&logoColor=2d1b6e)
-![Render](https://img.shields.io/badge/Render-b8e8d4?style=for-the-badge&logo=render&logoColor=2d1b6e)
+![Groq](https://img.shields.io/badge/Groq_LLM-f4b8d4?style=for-the-badge&logoColor=2d1b6e)
+![RAG](https://img.shields.io/badge/RAG_·_Qdrant-b8e8d4?style=for-the-badge&logoColor=2d1b6e)
+![Render](https://img.shields.io/badge/Render-c5b9f0?style=for-the-badge&logo=render&logoColor=2d1b6e)
 ![Vercel](https://img.shields.io/badge/Vercel-a8c4f0?style=for-the-badge&logo=vercel&logoColor=2d1b6e)
 
 ---
@@ -49,7 +61,7 @@ Construyo aplicaciones full stack con **Angular + FastAPI**, cuido mucho el deta
 
 **Junior Web Developer** · Fundació Esplai – Talent IT · *Mar 2026 – Presente*
 - Rediseño completo de una web de transformación digital para el tercer sector
-- Desarrollo de apps móviles con Angular + Ionic en equipo multidisciplinar
+- Desarrollo de apps full stack (Angular + FastAPI) e híbridas móviles con Ionic, en equipo multidisciplinar
 - Ciclos de despliegue semanales con Git y GitHub
 
 **Freelance Web Developer** · *2024 – 2025*
@@ -61,6 +73,32 @@ Construyo aplicaciones full stack con **Angular + FastAPI**, cuido mucho el deta
 ---
 
 ## ✦ Proyectos
+
+### 🌱 Plantealo — cuidado de plantas con IA
+> App mobile-first (PWA) · chat de IA que reconoce la planta por foto · proyecto en equipo
+
+![Angular](https://img.shields.io/badge/Angular-c5b9f0?style=flat-square&logo=angular&logoColor=2d1b6e)
+![FastAPI](https://img.shields.io/badge/FastAPI-b8e8d4?style=flat-square&logo=fastapi&logoColor=2d1b6e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-a8c4f0?style=flat-square&logo=postgresql&logoColor=2d1b6e)
+![Firebase](https://img.shields.io/badge/Firebase-f4b8d4?style=flat-square&logo=firebase&logoColor=2d1b6e)
+![Groq](https://img.shields.io/badge/Groq-f0e4a0?style=flat-square&logoColor=2d1b6e)
+
+[![Demo](https://img.shields.io/badge/▶_Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://plantealo-1.onrender.com/)
+
+---
+
+### 💬 Chat Y2K — mensajería en tiempo real
+> WebSockets · salas privadas y de grupo · asistente IA (Yuki) · chatbot RAG de gramática · estética Y2K
+
+![Angular](https://img.shields.io/badge/Angular_21-c5b9f0?style=flat-square&logo=angular&logoColor=2d1b6e)
+![FastAPI](https://img.shields.io/badge/FastAPI-b8e8d4?style=flat-square&logo=fastapi&logoColor=2d1b6e)
+![WebSockets](https://img.shields.io/badge/WebSockets-f4b8d4?style=flat-square&logoColor=2d1b6e)
+![Qdrant](https://img.shields.io/badge/Qdrant_RAG-f0e4a0?style=flat-square&logoColor=2d1b6e)
+
+[![Demo](https://img.shields.io/badge/▶_Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://chat-frontend-o57q.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/mee96/Chat)
+
+---
 
 ### 🎮 Conecta 4 — Kawaii Edition
 > Juego multijugador en tiempo real · WebSockets · oponente IA con Groq (llama-3)
@@ -76,27 +114,15 @@ Construyo aplicaciones full stack con **Angular + FastAPI**, cuido mucho el deta
 ---
 
 ### 🧋 BBT — BubbleTea API
-> API REST full-stack · catálogo de bubble teas · autenticación Firebase · panel admin
+> API REST full-stack · catálogo de 53 bubble teas · autenticación Firebase · panel admin
 
-![Angular](https://img.shields.io/badge/Angular-c5b9f0?style=flat-square&logo=angular&logoColor=2d1b6e)
+![Angular](https://img.shields.io/badge/Angular_21-c5b9f0?style=flat-square&logo=angular&logoColor=2d1b6e)
 ![FastAPI](https://img.shields.io/badge/FastAPI-b8e8d4?style=flat-square&logo=fastapi&logoColor=2d1b6e)
 ![MySQL](https://img.shields.io/badge/MySQL-f0e4a0?style=flat-square&logo=mysql&logoColor=2d1b6e)
 ![Firebase](https://img.shields.io/badge/Firebase-f4b8d4?style=flat-square&logo=firebase&logoColor=2d1b6e)
 
 [![Demo](https://img.shields.io/badge/▶_Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://bubbletea-api.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/mee96/BBT)
-
----
-
-### 💬 Chat Y2K — WebSocket Chat
-> Chat en tiempo real · salas privadas · presencia de usuarios en vivo · estética Y2K
-
-![Angular](https://img.shields.io/badge/Angular-c5b9f0?style=flat-square&logo=angular&logoColor=2d1b6e)
-![FastAPI](https://img.shields.io/badge/FastAPI-b8e8d4?style=flat-square&logo=fastapi&logoColor=2d1b6e)
-![WebSockets](https://img.shields.io/badge/WebSockets-f4b8d4?style=flat-square&logoColor=2d1b6e)
-
-[![Demo](https://img.shields.io/badge/▶_Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://chat-frontend-o57q.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/mee96/Chat)
 
 ---
 
@@ -110,27 +136,47 @@ Construyo aplicaciones full stack con **Angular + FastAPI**, cuido mucho el deta
 [![Demo](https://img.shields.io/badge/▶_Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://angelacamu.github.io/project-promo-A-module-2-team-1/)
 [![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/ANGELACAMU/project-promo-A-module-2-team-1)
 
+<sub>🍃 Y más en mi perfil: **SkinCare App**, **Nikkura** (descubridor de anime) y mi **portfolio v2** con asistente IA propio.</sub>
+
+---
+
+## ✦ Mis números en GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mee96&show_icons=true&hide_border=true&title_color=B372CF&icon_color=FF6FA8&text_color=808080&bg_color=00000000" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mee96&layout=compact&hide_border=true&title_color=B372CF&text_color=808080&bg_color=00000000&langs_count=8" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mee96&hide_border=true&background=00000000&ring=B372CF&fire=FF6FA8&currStreakLabel=B372CF&sideLabels=808080&dates=808080&stroke=B372CF" height="165" alt="streak" />
+
+</div>
+
 ---
 
 ## ✦ Formación
 
-🎓 **FPO Dual Full Stack Developer** · Fundació Esplai – Talent IT · *Feb–Jul 2026*  
-🎓 **Full Stack Web Development Bootcamp** · Adalab · *Sep–Dec 2024*  
-📚 **Fundamentos de Programación / Java** · IT Academy · *Ene–Feb 2026*  
-📚 **Introducción a Big Data & IA** · IOE Business School · *Ene 2026*  
-🔬 **CFGS Laboratorio** · Escola Ramon i Cajal · *2020*
+🎓 **FPO Dual Full Stack Developer** · Fundació Esplai – Talent IT · *2026*  
+🎓 **Full Stack Web Development Bootcamp** · Adalab · *2024*  
+📚 **Fundamentos de Programación / Java** · IT Academy · *2026*  
+📚 **Introducción a Big Data & IA** · IOE Business School · *2026*  
+🔬 **CFGS Laboratorio Clínico y Biomédico** · Escola Ramon i Cajal · *2020*  
+🔬 **CFGS Fabricación de Productos Farmacéuticos y Biotecnológicos** · INS Severo Ochoa · *2022*
 
 ---
 
 ## ✦ Idiomas
 
-🟣 **Catalán** — Nativo &nbsp;|&nbsp; 🩷 **Castellano** — Nativo &nbsp;|&nbsp; 🩵 **Inglés** — Profesional
+🟣 **Catalán** — Nativo &nbsp;|&nbsp; 🩷 **Castellano** — Nativo &nbsp;|&nbsp; 🩵 **Inglés** — Avanzado
 
 ---
 
 <div align="center">
 
 *Buscando mi primera oportunidad como Junior Developer en Barcelona* ✨  
-*dev.mee96@gmail.com*
+**dev.mee96@gmail.com**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c5b9f0&height=110&section=footer" width="100%" alt="" />
 
 </div>
