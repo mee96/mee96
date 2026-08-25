@@ -87,6 +87,22 @@ Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA
 
 ---
 
+### 🌸 Portfolio v2 — con asistente IA propio
+> Mi portfolio actual en Angular · trilingüe (CA/ES/EN) · **Bunsen**, un asistente IA con RAG que responde por mí
+
+![Angular](https://img.shields.io/badge/Angular_21-c5b9f0?style=flat-square&logo=angular&logoColor=2d1b6e)
+![TypeScript](https://img.shields.io/badge/TypeScript-b8e8d4?style=flat-square&logo=typescript&logoColor=2d1b6e)
+![SCSS](https://img.shields.io/badge/SCSS-a8c4f0?style=flat-square&logo=sass&logoColor=2d1b6e)
+![FastAPI](https://img.shields.io/badge/FastAPI-f4b8d4?style=flat-square&logo=fastapi&logoColor=2d1b6e)
+![RAG](https://img.shields.io/badge/RAG_·_Groq-f0e4a0?style=flat-square&logoColor=2d1b6e)
+
+[![Demo](https://img.shields.io/badge/▶_Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://carme-portfoli.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/mee96/portfoli.v2)
+
+> 💜 *Y mi [primer portfolio](https://portfolio-carme.vercel.app/) ([repo](https://github.com/mee96/portfolio)) lo guardo con cariño — fue donde empezó todo.*
+
+---
+
 ### 💬 Chat Y2K — mensajería en tiempo real
 > WebSockets · salas privadas y de grupo · asistente IA (Yuki) · chatbot RAG de gramática · estética Y2K
 
@@ -126,6 +142,30 @@ Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA
 
 ---
 
+### 🌙 Nikkura — descubridor de anime
+> App para descubrir y organizar anime · roles de usuario con paletas y recomendaciones propias · Angular + FastAPI
+
+![Angular](https://img.shields.io/badge/Angular-c5b9f0?style=flat-square&logo=angular&logoColor=2d1b6e)
+![FastAPI](https://img.shields.io/badge/FastAPI-b8e8d4?style=flat-square&logo=fastapi&logoColor=2d1b6e)
+![MySQL](https://img.shields.io/badge/MySQL-f0e4a0?style=flat-square&logo=mysql&logoColor=2d1b6e)
+![Firebase](https://img.shields.io/badge/Firebase-f4b8d4?style=flat-square&logo=firebase&logoColor=2d1b6e)
+
+[![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/mee96/Nikkuraa)
+
+---
+
+### 🧴 SkinCare App — rutina coreana
+> Seguimiento de rutina de skincare · calendario, stock y escaneo IA de productos · i18n (CA/ES/EN/KR)
+
+![Angular](https://img.shields.io/badge/Angular-c5b9f0?style=flat-square&logo=angular&logoColor=2d1b6e)
+![FastAPI](https://img.shields.io/badge/FastAPI-b8e8d4?style=flat-square&logo=fastapi&logoColor=2d1b6e)
+![Firebase](https://img.shields.io/badge/Firebase-f4b8d4?style=flat-square&logo=firebase&logoColor=2d1b6e)
+![Groq](https://img.shields.io/badge/Groq-f0e4a0?style=flat-square&logoColor=2d1b6e)
+
+[![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/mee96/SkinCareApp)
+
+---
+
 ### 🐱 PURR Skills
 > Generador de fichas de personaje para juegos de rol · proyecto final de equipo · Adalab
 
@@ -136,20 +176,15 @@ Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA
 [![Demo](https://img.shields.io/badge/▶_Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://angelacamu.github.io/project-promo-A-module-2-team-1/)
 [![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/ANGELACAMU/project-promo-A-module-2-team-1)
 
-<sub>🍃 Y más en mi perfil: **SkinCare App**, **Nikkura** (descubridor de anime) y mi **portfolio v2** con asistente IA propio.</sub>
-
 ---
 
 ## ✦ Mis números en GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mee96&show_icons=true&hide_border=true&title_color=B372CF&icon_color=FF6FA8&text_color=808080&bg_color=00000000" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mee96&layout=compact&hide_border=true&title_color=B372CF&text_color=808080&bg_color=00000000&langs_count=8" alt="top languages" />
+[![Stats](https://github-readme-stats.vercel.app/api?username=mee96&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=B372CF&icon_color=FF6FA8&text_color=6a6880&bg_color=00000000)](https://github.com/mee96)
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=mee96&hide_border=true&background=00000000&ring=B372CF&fire=FF6FA8&currStreakLabel=B372CF&sideLabels=808080&dates=808080&stroke=B372CF" height="165" alt="streak" />
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mee96&layout=compact&hide_border=true&langs_count=8&title_color=B372CF&text_color=6a6880&bg_color=00000000)](https://github.com/mee96)
 
 </div>
 
