@@ -4,33 +4,38 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c5b9f0&height=190&section=header&text=Carme%20Medina%20Canalda&fontColor=2d1b6e&fontSize=40&desc=Junior%20Full%20Stack%20Developer%20%C2%B7%20Angular%20%2B%20FastAPI&descSize=18&descColor=2d1b6e&descAlignY=60" width="100%" alt="Carme Medina Canalda" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c5b9f0&height=230&section=header&text=Carme%20Medina%20Canalda&fontColor=2d1b6e&fontSize=44&desc=Full%20Stack%20Developer&descSize=22&descColor=2d1b6e&descAlignY=66&fontAlignY=40" width="100%" alt="Carme Medina Canalda" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&color=B372CF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%F0%9F%8C%B8;Angular+%C2%B7+React+%C2%B7+FastAPI;Del+laboratorio+al+c%C3%B3digo;Buscando+mi+primera+oportunidad+%E2%9C%A8" alt="typing" />
+<br/><br/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=21&pause=1300&color=B372CF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Del+laboratorio+al+c%C3%B3digo;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Buscando+mi+primera+oportunidad" alt="typing" />
 
-[![Portfolio](https://img.shields.io/badge/🌸_Portfolio-c5b9f0?style=for-the-badge&logoColor=2d1b6e)](https://carme-portfoli.onrender.com/)
-[![Email](https://img.shields.io/badge/📩_Email-f4b8d4?style=for-the-badge&logoColor=2d1b6e)](mailto:dev.mee96@gmail.com)
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-c5b9f0?style=for-the-badge&logoColor=2d1b6e)](https://carme-portfoli.onrender.com/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-f4b8d4?style=for-the-badge&logo=gmail&logoColor=2d1b6e)](mailto:dev.mee96@gmail.com)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-a8c4f0?style=for-the-badge&logo=linkedin&logoColor=2d1b6e)](https://www.linkedin.com/in/carme-medina-canalda-250457132/)
 
 </div>
 
----
+<br/>
 
-## ♥ Sobre mí
+## <img src="https://api.iconify.design/ph/hand-waving-fill.svg?color=%23FF6FA8&height=24" height="22"> &nbsp;Sobre mí
 
 Soy desarrolladora **full stack** con base en Barcelona, actualmente en **Fundació Esplai – Talent IT** mientras completo un **FPO Dual en Full Stack Development**.
 
-Antes de entrar en tech fui **técnica de laboratorio (análisis RIA/EIA)** durante 3 años. Esa formación científica me dejó una mentalidad analítica y metódica que aplico cada día al escribir código — leo los errores con la misma paciencia con la que leía resultados de ensayo. 🔬
+Antes de dedicarme a esto fui **técnica de laboratorio (análisis RIA/EIA)** durante tres años. Esa etapa me dejó una forma de trabajar muy analítica y paciente: leo los errores del código con la misma calma con la que leía los resultados de un ensayo.
 
-Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA** (RAG, LLMs) cuando aporta valor, cuido el detalle visual y me gusta que las cosas funcionen de verdad. ✨
+Me gusta construir aplicaciones full stack con **Angular, React y FastAPI**, sumar **IA** cuando aporta algo de verdad, y cuidar los detalles para que las cosas no solo funcionen, sino que se sientan bien.
 
----
+<br/>
 
-## ✦ Stack tecnológico
+## <img src="https://api.iconify.design/ph/stack-fill.svg?color=%23B372CF&height=24" height="22"> &nbsp;Stack tecnológico
 
-### Frontend
+**Frontend**
+
 ![Angular](https://img.shields.io/badge/Angular-c5b9f0?style=for-the-badge&logo=angular&logoColor=2d1b6e)
 ![React](https://img.shields.io/badge/React-f4b8d4?style=for-the-badge&logo=react&logoColor=2d1b6e)
 ![Next.js](https://img.shields.io/badge/Next.js-a8c4f0?style=for-the-badge&logo=nextdotjs&logoColor=2d1b6e)
@@ -40,13 +45,15 @@ Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA
 ![HTML5](https://img.shields.io/badge/HTML5-f4b8d4?style=for-the-badge&logo=html5&logoColor=2d1b6e)
 ![SCSS](https://img.shields.io/badge/SCSS-a8c4f0?style=for-the-badge&logo=sass&logoColor=2d1b6e)
 
-### Backend
+**Backend**
+
 ![Python](https://img.shields.io/badge/Python-c5b9f0?style=for-the-badge&logo=python&logoColor=2d1b6e)
 ![FastAPI](https://img.shields.io/badge/FastAPI-b8e8d4?style=for-the-badge&logo=fastapi&logoColor=2d1b6e)
 ![Node.js](https://img.shields.io/badge/Node.js-f0e4a0?style=for-the-badge&logo=nodedotjs&logoColor=2d1b6e)
 ![WebSockets](https://img.shields.io/badge/WebSockets-f4b8d4?style=for-the-badge&logo=socketdotio&logoColor=2d1b6e)
 
-### Base de datos, IA & Cloud
+**Base de datos, IA & Cloud**
+
 ![MySQL](https://img.shields.io/badge/MySQL-c5b9f0?style=for-the-badge&logo=mysql&logoColor=2d1b6e)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-a8c4f0?style=for-the-badge&logo=postgresql&logoColor=2d1b6e)
 ![Firebase](https://img.shields.io/badge/Firebase-f0e4a0?style=for-the-badge&logo=firebase&logoColor=2d1b6e)
@@ -55,9 +62,9 @@ Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA
 ![Render](https://img.shields.io/badge/Render-c5b9f0?style=for-the-badge&logo=render&logoColor=2d1b6e)
 ![Vercel](https://img.shields.io/badge/Vercel-a8c4f0?style=for-the-badge&logo=vercel&logoColor=2d1b6e)
 
----
+<br/>
 
-## ✦ Experiencia
+## <img src="https://api.iconify.design/ph/briefcase-fill.svg?color=%235B9BD5&height=24" height="22"> &nbsp;Experiencia
 
 **Junior Web Developer** · Fundació Esplai – Talent IT · *Mar 2026 – Presente*
 - Rediseño completo de una web de transformación digital para el tercer sector
@@ -65,16 +72,16 @@ Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA
 - Ciclos de despliegue semanales con Git y GitHub
 
 **Freelance Web Developer** · *2024 – 2025*
-- Diseño, desarrollo y despliegue de web para cliente privado — HTML, CSS, JS, Vercel
+- Diseño, desarrollo y despliegue de una web para cliente privado — HTML, CSS, JS, Vercel
 
 **Técnica de Laboratorio** · Reference Laboratory / Synlab / Unilabs · *2021 – 2024*
 - Análisis RIA/EIA especializados — departamentos de bioquímica, EIA, RIA y UGM
 
----
+<br/>
 
-## ✦ Proyectos
+## <img src="https://api.iconify.design/ph/folder-simple-star-fill.svg?color=%232FB5AE&height=24" height="22"> &nbsp;Proyectos
 
-### 🌱 Plantealo — cuidado de plantas con IA
+### <img src="https://api.iconify.design/ph/plant-fill.svg?color=%232FB5AE&height=20" height="18"> Plantealo — cuidado de plantas con IA
 > App mobile-first (PWA) · chat de IA que reconoce la planta por foto · proyecto en equipo
 
 ![Angular](https://img.shields.io/badge/Angular-c5b9f0?style=flat-square&logo=angular&logoColor=2d1b6e)
@@ -83,11 +90,12 @@ Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA
 ![Firebase](https://img.shields.io/badge/Firebase-f4b8d4?style=flat-square&logo=firebase&logoColor=2d1b6e)
 ![Groq](https://img.shields.io/badge/Groq-f0e4a0?style=flat-square&logoColor=2d1b6e)
 
-[![Demo](https://img.shields.io/badge/▶_Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://plantealo-1.onrender.com/)
+[![Demo](https://img.shields.io/badge/Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://plantealo-1.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/AlmaQm/Plantealo)
 
 ---
 
-### 🌸 Portfolio v2 — con asistente IA propio
+### <img src="https://api.iconify.design/ph/sparkle-fill.svg?color=%23B372CF&height=20" height="18"> Portfolio v2 — con asistente IA propio
 > Mi portfolio actual en Angular · trilingüe (CA/ES/EN) · **Bunsen**, un asistente IA con RAG que responde por mí
 
 ![Angular](https://img.shields.io/badge/Angular_21-c5b9f0?style=flat-square&logo=angular&logoColor=2d1b6e)
@@ -96,14 +104,14 @@ Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA
 ![FastAPI](https://img.shields.io/badge/FastAPI-f4b8d4?style=flat-square&logo=fastapi&logoColor=2d1b6e)
 ![RAG](https://img.shields.io/badge/RAG_·_Groq-f0e4a0?style=flat-square&logoColor=2d1b6e)
 
-[![Demo](https://img.shields.io/badge/▶_Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://carme-portfoli.onrender.com/)
+[![Demo](https://img.shields.io/badge/Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://carme-portfoli.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/mee96/portfoli.v2)
 
-> 💜 *Y mi [primer portfolio](https://portfolio-carme.vercel.app/) ([repo](https://github.com/mee96/portfolio)) lo guardo con cariño — fue donde empezó todo.*
+> Y mi [primer portfolio](https://portfolio-carme.vercel.app/) ([repo](https://github.com/mee96/portfolio)) lo guardo con cariño 💜 — fue donde empezó todo.
 
 ---
 
-### 💬 Chat Y2K — mensajería en tiempo real
+### <img src="https://api.iconify.design/ph/chat-circle-dots-fill.svg?color=%23FF6FA8&height=20" height="18"> Chat Y2K — mensajería en tiempo real
 > WebSockets · salas privadas y de grupo · asistente IA (Yuki) · chatbot RAG de gramática · estética Y2K
 
 ![Angular](https://img.shields.io/badge/Angular_21-c5b9f0?style=flat-square&logo=angular&logoColor=2d1b6e)
@@ -111,12 +119,12 @@ Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA
 ![WebSockets](https://img.shields.io/badge/WebSockets-f4b8d4?style=flat-square&logoColor=2d1b6e)
 ![Qdrant](https://img.shields.io/badge/Qdrant_RAG-f0e4a0?style=flat-square&logoColor=2d1b6e)
 
-[![Demo](https://img.shields.io/badge/▶_Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://chat-frontend-o57q.onrender.com/)
+[![Demo](https://img.shields.io/badge/Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://chat-frontend-o57q.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/mee96/Chat)
 
 ---
 
-### 🎮 Conecta 4 — Kawaii Edition
+### <img src="https://api.iconify.design/ph/game-controller-fill.svg?color=%235B9BD5&height=20" height="18"> Conecta 4 — Kawaii Edition
 > Juego multijugador en tiempo real · WebSockets · oponente IA con Groq (llama-3)
 
 ![Angular](https://img.shields.io/badge/Angular-c5b9f0?style=flat-square&logo=angular&logoColor=2d1b6e)
@@ -124,12 +132,12 @@ Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA
 ![WebSockets](https://img.shields.io/badge/WebSockets-f4b8d4?style=flat-square&logoColor=2d1b6e)
 ![Groq](https://img.shields.io/badge/Groq_LLM-f0e4a0?style=flat-square&logoColor=2d1b6e)
 
-[![Demo](https://img.shields.io/badge/▶_Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://conecta4-frontend.onrender.com/)
+[![Demo](https://img.shields.io/badge/Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://conecta4-frontend.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/mee96/juego-conecta-4)
 
 ---
 
-### 🧋 BBT — BubbleTea API
+### <img src="https://api.iconify.design/ph/coffee-fill.svg?color=%23E0A63B&height=20" height="18"> BBT — BubbleTea API
 > API REST full-stack · catálogo de 53 bubble teas · autenticación Firebase · panel admin
 
 ![Angular](https://img.shields.io/badge/Angular_21-c5b9f0?style=flat-square&logo=angular&logoColor=2d1b6e)
@@ -137,13 +145,13 @@ Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA
 ![MySQL](https://img.shields.io/badge/MySQL-f0e4a0?style=flat-square&logo=mysql&logoColor=2d1b6e)
 ![Firebase](https://img.shields.io/badge/Firebase-f4b8d4?style=flat-square&logo=firebase&logoColor=2d1b6e)
 
-[![Demo](https://img.shields.io/badge/▶_Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://bubbletea-api.vercel.app/)
+[![Demo](https://img.shields.io/badge/Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://bubbletea-api.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/mee96/BBT)
 
 ---
 
-### 🌙 Nikkura — descubridor de anime
-> App para descubrir y organizar anime · roles de usuario con paletas y recomendaciones propias · Angular + FastAPI
+### <img src="https://api.iconify.design/ph/moon-stars-fill.svg?color=%23B372CF&height=20" height="18"> Nikkura — descubridor de anime
+> Descubrir y organizar anime · roles de usuario con paletas y recomendaciones propias · Angular + FastAPI
 
 ![Angular](https://img.shields.io/badge/Angular-c5b9f0?style=flat-square&logo=angular&logoColor=2d1b6e)
 ![FastAPI](https://img.shields.io/badge/FastAPI-b8e8d4?style=flat-square&logo=fastapi&logoColor=2d1b6e)
@@ -154,7 +162,7 @@ Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA
 
 ---
 
-### 🧴 SkinCare App — rutina coreana
+### <img src="https://api.iconify.design/ph/drop-fill.svg?color=%23FF6FA8&height=20" height="18"> SkinCare App — rutina coreana
 > Seguimiento de rutina de skincare · calendario, stock y escaneo IA de productos · i18n (CA/ES/EN/KR)
 
 ![Angular](https://img.shields.io/badge/Angular-c5b9f0?style=flat-square&logo=angular&logoColor=2d1b6e)
@@ -166,19 +174,19 @@ Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA
 
 ---
 
-### 🐱 PURR Skills
+### <img src="https://api.iconify.design/ph/cat-fill.svg?color=%23E0A63B&height=20" height="18"> PURR Skills
 > Generador de fichas de personaje para juegos de rol · proyecto final de equipo · Adalab
 
 ![HTML5](https://img.shields.io/badge/HTML5-f4b8d4?style=flat-square&logo=html5&logoColor=2d1b6e)
 ![CSS3](https://img.shields.io/badge/CSS3-a8c4f0?style=flat-square&logo=css3&logoColor=2d1b6e)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0e4a0?style=flat-square&logo=javascript&logoColor=2d1b6e)
 
-[![Demo](https://img.shields.io/badge/▶_Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://angelacamu.github.io/project-promo-A-module-2-team-1/)
+[![Demo](https://img.shields.io/badge/Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://angelacamu.github.io/project-promo-A-module-2-team-1/)
 [![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/ANGELACAMU/project-promo-A-module-2-team-1)
 
----
+<br/>
 
-## ✦ Mis números en GitHub
+## <img src="https://api.iconify.design/ph/chart-bar-fill.svg?color=%23E0A63B&height=24" height="22"> &nbsp;Mis números en GitHub
 
 <div align="center">
 
@@ -188,28 +196,28 @@ Construyo aplicaciones full stack con **Angular, React y FastAPI**, integro **IA
 
 </div>
 
----
+<br/>
 
-## ✦ Formación
+## <img src="https://api.iconify.design/ph/graduation-cap-fill.svg?color=%23B372CF&height=24" height="22"> &nbsp;Formación
 
-🎓 **FPO Dual Full Stack Developer** · Fundació Esplai – Talent IT · *2026*  
-🎓 **Full Stack Web Development Bootcamp** · Adalab · *2024*  
-📚 **Fundamentos de Programación / Java** · IT Academy · *2026*  
-📚 **Introducción a Big Data & IA** · IOE Business School · *2026*  
-🔬 **CFGS Laboratorio Clínico y Biomédico** · Escola Ramon i Cajal · *2020*  
-🔬 **CFGS Fabricación de Productos Farmacéuticos y Biotecnológicos** · INS Severo Ochoa · *2022*
+**FPO Dual Full Stack Developer** · Fundació Esplai – Talent IT · *2026*  
+**Full Stack Web Development Bootcamp** · Adalab · *2024*  
+**Fundamentos de Programación / Java** · IT Academy · *2026*  
+**Introducción a Big Data & IA** · IOE Business School · *2026*  
+**CFGS Laboratorio Clínico y Biomédico** · Escola Ramon i Cajal · *2020*  
+**CFGS Fabricación de Productos Farmacéuticos y Biotecnológicos** · INS Severo Ochoa · *2022*
 
----
+<br/>
 
-## ✦ Idiomas
+## <img src="https://api.iconify.design/ph/translate-fill.svg?color=%23FF6FA8&height=24" height="22"> &nbsp;Idiomas
 
-🟣 **Catalán** — Nativo &nbsp;|&nbsp; 🩷 **Castellano** — Nativo &nbsp;|&nbsp; 🩵 **Inglés** — Avanzado
+**Catalán** — Nativo &nbsp;·&nbsp; **Castellano** — Nativo &nbsp;·&nbsp; **Inglés** — Avanzado
 
----
+<br/>
 
 <div align="center">
 
-*Buscando mi primera oportunidad como Junior Developer en Barcelona* ✨  
+*Buscando mi primera oportunidad como Junior Developer en Barcelona*  
 **dev.mee96@gmail.com**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=c5b9f0&height=110&section=footer" width="100%" alt="" />
