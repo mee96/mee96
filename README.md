@@ -6,11 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=c5b9f0&height=230&section=header&text=Carme%20Medina%20Canalda&fontColor=2d1b6e&fontSize=44&desc=Full%20Stack%20Developer&descSize=22&descColor=2d1b6e&descAlignY=66&fontAlignY=40" width="100%" alt="Carme Medina Canalda" />
 
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=21&pause=1300&color=B372CF&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Del+laboratorio+al+c%C3%B3digo;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Buscando+mi+primera+oportunidad" alt="typing" />
-
-<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-c5b9f0?style=for-the-badge&logoColor=2d1b6e)](https://carme-portfoli.onrender.com/)
 &nbsp;
@@ -183,18 +179,6 @@ Me gusta construir aplicaciones full stack con **Angular, React y FastAPI**, sum
 
 [![Demo](https://img.shields.io/badge/Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://angelacamu.github.io/project-promo-A-module-2-team-1/)
 [![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/ANGELACAMU/project-promo-A-module-2-team-1)
-
-<br/>
-
-## <img src="https://api.iconify.design/ph/chart-bar-fill.svg?color=%23E0A63B&height=24" height="22"> &nbsp;Mis números en GitHub
-
-<div align="center">
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=mee96&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=B372CF&icon_color=FF6FA8&text_color=6a6880&bg_color=00000000)](https://github.com/mee96)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mee96&layout=compact&hide_border=true&langs_count=8&title_color=B372CF&text_color=6a6880&bg_color=00000000)](https://github.com/mee96)
-
-</div>
 
 <br/>
 
