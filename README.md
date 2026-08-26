@@ -178,7 +178,7 @@ Me gusta construir aplicaciones full stack con **Angular, React y FastAPI**, sum
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0e4a0?style=flat-square&logo=javascript&logoColor=2d1b6e)
 
 [![Demo](https://img.shields.io/badge/Demo-b8e8d4?style=for-the-badge&logoColor=2d1b6e)](https://angelacamu.github.io/project-promo-A-module-2-team-1/)
-[![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/ANGELACAMU/project-promo-A-module-2-team-1)
+[![GitHub](https://img.shields.io/badge/GitHub-c5b9f0?style=for-the-badge&logo=github&logoColor=2d1b6e)](https://github.com/mee96/project-promo-A-module-2-team-1)
 
 <br/>
 
