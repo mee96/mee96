@@ -193,16 +193,25 @@ Me gusta construir aplicaciones full stack con **Angular, React y FastAPI**, sum
 
 <br/>
 
+
 ## <img src="https://api.iconify.design/ph/translate-fill.svg?color=%23FF6FA8&height=24" height="22"> &nbsp;Idiomas
 
 **Catalán** — Nativo &nbsp;·&nbsp; **Castellano** — Nativo &nbsp;·&nbsp; **Inglés** — Avanzado
 
 <br/>
 
+---
+
 <div align="center">
 
 *Buscando mi primera oportunidad como Junior Developer en Barcelona*  
 **dev.mee96@gmail.com**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mee96&color=c5b9f0&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=c5b9f0&height=110&section=footer" width="100%" alt="" />
 
