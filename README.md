@@ -276,7 +276,7 @@ I work with **Git/GitHub**, **Gitflow** and **Agile/Scrum**, taking part from re
 I am focused on continuing to grow as a **Software Developer / Full Stack Developer**, especially on projects involving Angular, TypeScript, Python, FastAPI, APIs, real-time systems and AI.
 
 <img src="https://api.iconify.design/ph/map-pin-line-fill.svg?color=%232FB5AE&height=18" height="16"> **Barcelona, Spain**  
-<img src="https://api.iconify.design/ph/briefcase-duotone.svg?color=%232FB5AE&height=18" height="16"> **Open to Junior Software Developer / Full Stack Developer opportunities**
+<img src="https://api.iconify.design/ph/briefcase-duotone.svg?color=%232FB5AE&height=18" height="16"> **Open to Junior Software Developer / Full Stack Developer opportunities worldwide**
 
 <br/>
 

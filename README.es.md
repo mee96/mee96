@@ -124,10 +124,10 @@ Trabajo con **Git/GitHub**, **Gitflow** y **Agile/Scrum**, participando desde la
 **Angular 21 · FastAPI · WebSockets · Qdrant · Groq**  
 *Aplicación de mensajería en tiempo real con salas privadas y grupales, asistente IA y chatbot RAG de gramática.*
 
-* <img src="https://api.iconify.design/ph/lightning-bold.svg?color=%23FF6FA8&height=14" height="14"> Desarrollé comunicación bidireccional en tiempo real mediante WebSockets.
-* <img src="https://api.iconify.design/ph/chats-bold.svg?color=%23FF6FA8&height=14" height="14"> Implementé salas privadas y grupales para diferentes contextos de comunicación.
-* <img src="https://api.iconify.design/ph/robot-bold.svg?color=%23FF6FA8&height=14" height="14"> Integré un asistente IA y un chatbot RAG utilizando Groq y Qdrant.
-* <img src="https://api.iconify.design/ph/link-bold.svg?color=%23FF6FA8&height=14" height="14"> Conecté Angular 21 con FastAPI para gestionar comunicación y lógica de backend.
+* <img src="https://api.iconify.design/ph/lightning-bold.svg?color=%23FF6FA8&height=14" height="14"> Comunicación bidireccional en tiempo real mediante WebSockets.
+* <img src="https://api.iconify.design/ph/chats-bold.svg?color=%23FF6FA8&height=14" height="14"> Salas privadas y grupales para distintos contextos de comunicación.
+* <img src="https://api.iconify.design/ph/robot-bold.svg?color=%23FF6FA8&height=14" height="14"> Incluye un asistente de IA y un chatbot RAG con Groq y Qdrant.
+* <img src="https://api.iconify.design/ph/link-bold.svg?color=%23FF6FA8&height=14" height="14"> Angular 21 y FastAPI conectados para coordinar la comunicación y la lógica de backend.
 
 ---
 
@@ -135,11 +135,11 @@ Trabajo con **Git/GitHub**, **Gitflow** y **Agile/Scrum**, participando desde la
 **Angular · FastAPI · PostgreSQL · Firebase · Groq · PWA**  
 *Aplicación mobile-first/PWA para identificar plantas mediante fotografía y proporcionar asistencia mediante IA.*
 
-* <img src="https://api.iconify.design/ph/device-mobile-bold.svg?color=%232FB5AE&height=14" height="14"> Desarrollé una aplicación PWA mobile-first con Angular y FastAPI.
-* <img src="https://api.iconify.design/ph/camera-bold.svg?color=%232FB5AE&height=14" height="14"> Integré identificación de plantas mediante imágenes.
-* <img src="https://api.iconify.design/ph/sparkle-bold.svg?color=%232FB5AE&height=14" height="14"> Implementé funcionalidades de IA para ofrecer información personalizada sobre el cuidado de plantas.
-* <img src="https://api.iconify.design/ph/database-bold.svg?color=%232FB5AE&height=14" height="14"> Conecté frontend, backend, PostgreSQL y servicios de IA en una solución full stack.
-* <img src="https://api.iconify.design/ph/users-three-bold.svg?color=%232FB5AE&height=14" height="14"> Proyecto desarrollado en equipo.
+* <img src="https://api.iconify.design/ph/device-mobile-bold.svg?color=%232FB5AE&height=14" height="14"> Aplicación PWA mobile-first creada con Angular y FastAPI.
+* <img src="https://api.iconify.design/ph/camera-bold.svg?color=%232FB5AE&height=14" height="14"> Identificación de plantas a partir de imágenes.
+* <img src="https://api.iconify.design/ph/sparkle-bold.svg?color=%232FB5AE&height=14" height="14"> Ofrece información personalizada sobre el cuidado de las plantas mediante IA.
+* <img src="https://api.iconify.design/ph/database-bold.svg?color=%232FB5AE&height=14" height="14"> Frontend, backend, PostgreSQL y servicios de IA integrados en una solución full stack.
+* <img src="https://api.iconify.design/ph/users-three-bold.svg?color=%232FB5AE&height=14" height="14"> Proyecto realizado en equipo.
 
 ---
 
@@ -147,11 +147,11 @@ Trabajo con **Git/GitHub**, **Gitflow** y **Agile/Scrum**, participando desde la
 **Angular 21 · TypeScript · SCSS · FastAPI · RAG · Groq**  
 *Mi portfolio personal, construido como una aplicación full stack y acompañado de Bunsen, un asistente IA basado en RAG.*
 
-* <img src="https://api.iconify.design/ph/translate-bold.svg?color=%23B372CF&height=14" height="14"> Desarrollé una aplicación multilingüe en catalán, castellano e inglés.
-* <img src="https://api.iconify.design/ph/cpu-bold.svg?color=%23B372CF&height=14" height="14"> Construí un asistente IA propio basado en RAG.
-* <img src="https://api.iconify.design/ph/broadcast-bold.svg?color=%23B372CF&height=14" height="14"> Implementé comunicación mediante streaming/WebSockets entre Angular y FastAPI.
-* <img src="https://api.iconify.design/ph/cloud-bold.svg?color=%23B372CF&height=14" height="14"> Despliegue de frontend y backend en Render.
-* <img src="https://api.iconify.design/ph/layout-bold.svg?color=%23B372CF&height=14" height="14"> Diseñé una interfaz responsive centrada en experiencia de usuario.
+* <img src="https://api.iconify.design/ph/translate-bold.svg?color=%23B372CF&height=14" height="14"> Aplicación multilingüe disponible en catalán, castellano e inglés.
+* <img src="https://api.iconify.design/ph/cpu-bold.svg?color=%23B372CF&height=14" height="14"> Asistente de IA propio basado en RAG.
+* <img src="https://api.iconify.design/ph/broadcast-bold.svg?color=%23B372CF&height=14" height="14"> Comunicación por streaming y WebSockets entre Angular y FastAPI.
+* <img src="https://api.iconify.design/ph/cloud-bold.svg?color=%23B372CF&height=14" height="14"> Frontend y backend desplegados en Render.
+* <img src="https://api.iconify.design/ph/layout-bold.svg?color=%23B372CF&height=14" height="14"> Interfaz responsive diseñada con la experiencia de usuario como prioridad.
 
 ---
 
@@ -159,11 +159,11 @@ Trabajo con **Git/GitHub**, **Gitflow** y **Agile/Scrum**, participando desde la
 **Angular 21 · FastAPI · MySQL · Firebase Authentication**  
 *Aplicación CRUD full stack con catálogo de 53 productos, autenticación y panel de administración.*
 
-* <img src="https://api.iconify.design/ph/code-block-bold.svg?color=%23E0A63B&height=14" height="14"> Desarrollé una aplicación CRUD full stack con Angular 21, FastAPI y MySQL.
-* <img src="https://api.iconify.design/ph/package-bold.svg?color=%23E0A63B&height=14" height="14"> Gestioné un catálogo de 53 productos mediante una API REST.
-* <img src="https://api.iconify.design/ph/shield-check-bold.svg?color=%23E0A63B&height=14" height="14"> Implementé autenticación utilizando Firebase Authentication.
-* <img src="https://api.iconify.design/ph/sliders-horizontal-bold.svg?color=%23E0A63B&height=14" height="14"> Construí un panel de administración para gestionar el catálogo.
-* <img src="https://api.iconify.design/ph/arrows-left-right-bold.svg?color=%23E0A63B&height=14" height="14"> Integré frontend, API REST, base de datos y autenticación.
+* <img src="https://api.iconify.design/ph/code-block-bold.svg?color=%23E0A63B&height=14" height="14"> Aplicación CRUD full stack creada con Angular 21, FastAPI y MySQL.
+* <img src="https://api.iconify.design/ph/package-bold.svg?color=%23E0A63B&height=14" height="14"> Catálogo de 53 productos gestionado mediante una API REST.
+* <img src="https://api.iconify.design/ph/shield-check-bold.svg?color=%23E0A63B&height=14" height="14"> Autenticación implementada con Firebase Authentication.
+* <img src="https://api.iconify.design/ph/sliders-horizontal-bold.svg?color=%23E0A63B&height=14" height="14"> Panel de administración para gestionar el catálogo.
+* <img src="https://api.iconify.design/ph/arrows-left-right-bold.svg?color=%23E0A63B&height=14" height="14"> Integración de frontend, API REST, base de datos y autenticación.
 
 ---
 
@@ -171,10 +171,10 @@ Trabajo con **Git/GitHub**, **Gitflow** y **Agile/Scrum**, participando desde la
 **Angular · FastAPI · WebSockets · Groq**  
 *Juego multijugador en tiempo real con oponente basado en IA.*
 
-* <img src="https://api.iconify.design/ph/game-controller-bold.svg?color=%235B9BD5&height=14" height="14"> Desarrollé un juego multijugador mediante WebSockets.
-* <img src="https://api.iconify.design/ph/lightning-bold.svg?color=%235B9BD5&height=14" height="14"> Implementé comunicación en tiempo real entre jugadores.
-* <img src="https://api.iconify.design/ph/robot-bold.svg?color=%235B9BD5&height=14" height="14"> Integré un oponente basado en IA mediante Groq.
-* <img src="https://api.iconify.design/ph/link-bold.svg?color=%235B9BD5&height=14" height="14"> Conecté Angular y FastAPI para gestionar la lógica de la aplicación.
+* <img src="https://api.iconify.design/ph/game-controller-bold.svg?color=%235B9BD5&height=14" height="14"> Juego multijugador en tiempo real desarrollado con WebSockets.
+* <img src="https://api.iconify.design/ph/lightning-bold.svg?color=%235B9BD5&height=14" height="14"> Comunicación en tiempo real entre jugadores.
+* <img src="https://api.iconify.design/ph/robot-bold.svg?color=%235B9BD5&height=14" height="14"> Oponente basado en IA integrado mediante Groq.
+* <img src="https://api.iconify.design/ph/link-bold.svg?color=%235B9BD5&height=14" height="14"> Angular y FastAPI coordinan la lógica de la aplicación.
 
 ---
 
@@ -182,10 +182,10 @@ Trabajo con **Git/GitHub**, **Gitflow** y **Agile/Scrum**, participando desde la
 **Angular · FastAPI · MySQL · Firebase**  
 *Aplicación para descubrir y organizar anime con usuarios, recomendaciones y personalización.*
 
-* <img src="https://api.iconify.design/ph/compass-bold.svg?color=%23B372CF&height=14" height="14"> Desarrollé una aplicación full stack con Angular y FastAPI.
-* <img src="https://api.iconify.design/ph/user-gear-bold.svg?color=%23B372CF&height=14" height="14"> Implementé diferentes roles de usuario.
-* <img src="https://api.iconify.design/ph/palette-bold.svg?color=%23B372CF&height=14" height="14"> Añadí personalización mediante paletas y preferencias.
-* <img src="https://api.iconify.design/ph/database-bold.svg?color=%23B372CF&height=14" height="14"> Integré MySQL y Firebase.
+* <img src="https://api.iconify.design/ph/compass-bold.svg?color=%23B372CF&height=14" height="14"> Aplicación full stack desarrollada con Angular y FastAPI.
+* <img src="https://api.iconify.design/ph/user-gear-bold.svg?color=%23B372CF&height=14" height="14"> Diferentes roles de usuario para adaptar la experiencia.
+* <img src="https://api.iconify.design/ph/palette-bold.svg?color=%23B372CF&height=14" height="14"> Personalización mediante paletas y preferencias.
+* <img src="https://api.iconify.design/ph/database-bold.svg?color=%23B372CF&height=14" height="14"> Conexión con MySQL y Firebase.
 
 ---
 
@@ -193,10 +193,10 @@ Trabajo con **Git/GitHub**, **Gitflow** y **Agile/Scrum**, participando desde la
 **Angular · FastAPI · Firebase · Groq**  
 *Aplicación para gestionar rutinas de skincare, calendario, stock y funcionalidades de IA.*
 
-* <img src="https://api.iconify.design/ph/heartbeat-bold.svg?color=%23FF6FA8&height=14" height="14"> Desarrollé funcionalidades para gestionar rutinas y productos.
-* <img src="https://api.iconify.design/ph/calendar-blank-bold.svg?color=%23FF6FA8&height=14" height="14"> Implementé calendario y seguimiento de rutinas.
-* <img src="https://api.iconify.design/ph/scan-bold.svg?color=%23FF6FA8&height=14" height="14"> Integré funcionalidades de escaneo mediante IA.
-* <img src="https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?color=%23FF6FA8&height=14" height="14"> Añadí internacionalización en catalán, castellano, inglés y coreano.
+* <img src="https://api.iconify.design/ph/heartbeat-bold.svg?color=%23FF6FA8&height=14" height="14"> Gestión de rutinas y productos de skincare.
+* <img src="https://api.iconify.design/ph/calendar-blank-bold.svg?color=%23FF6FA8&height=14" height="14"> Calendario para el seguimiento de rutinas.
+* <img src="https://api.iconify.design/ph/scan-bold.svg?color=%23FF6FA8&height=14" height="14"> Escaneo de productos mediante IA.
+* <img src="https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?color=%23FF6FA8&height=14" height="14"> Internacionalización en catalán, castellano, inglés y coreano.
 
 ---
 
@@ -204,8 +204,8 @@ Trabajo con **Git/GitHub**, **Gitflow** y **Agile/Scrum**, participando desde la
 **HTML5 · CSS3 · JavaScript**  
 *Proyecto colaborativo desarrollado durante el Bootcamp Full Stack Web de Adalab.*
 
-* <img src="https://api.iconify.design/ph/identification-card-bold.svg?color=%23E0A63B&height=14" height="14"> Desarrollé una aplicación web para generar fichas de personajes para juegos de rol.
-* <img src="https://api.iconify.design/ph/users-bold.svg?color=%23E0A63B&height=14" height="14"> Colaboré en un equipo utilizando HTML, CSS y JavaScript.
+* <img src="https://api.iconify.design/ph/identification-card-bold.svg?color=%23E0A63B&height=14" height="14"> Aplicación web para generar fichas de personajes de juegos de rol.
+* <img src="https://api.iconify.design/ph/users-bold.svg?color=%23E0A63B&height=14" height="14"> Colaboración en equipo con HTML, CSS y JavaScript.
 
 <br/>
 
@@ -214,11 +214,11 @@ Trabajo con **Git/GitHub**, **Gitflow** y **Agile/Scrum**, participando desde la
 ### **Junior Web Developer** · *Fundació Esplai – Talent IT*
 *Mar 2026 – Presente*
 * <img src="https://api.iconify.design/ph/code-bold.svg?color=%235B9BD5&height=14" height="14"> Desarrollo de aplicaciones full stack con Angular, FastAPI, Python y MySQL.
-* <img src="https://api.iconify.design/ph/device-mobile-bold.svg?color=%235B9BD5&height=14" height="14"> Desarrollo de aplicaciones híbridas con Ionic.
+* <img src="https://api.iconify.design/ph/device-mobile-bold.svg?color=%235B9BD5&height=14" height="14"> Soluciones híbridas desarrolladas con Ionic.
 * <img src="https://api.iconify.design/ph/browsers-bold.svg?color=%235B9BD5&height=14" height="14"> Rediseño de una web orientada a la transformación digital del tercer sector.
 * <img src="https://api.iconify.design/ph/wrench-bold.svg?color=%235B9BD5&height=14" height="14"> Mantenimiento y personalización de sitios WordPress mediante PHP.
 * <img src="https://api.iconify.design/ph/arrows-clockwise-bold.svg?color=%235B9BD5&height=14" height="14"> Trabajo con Git/GitHub y ciclos de despliegue semanales.
-* <img src="https://api.iconify.design/ph/kanban-bold.svg?color=%235B9BD5&height=14" height="14"> Desarrollo dentro de un equipo multidisciplinar utilizando metodologías Agile/Scrum.
+* <img src="https://api.iconify.design/ph/kanban-bold.svg?color=%235B9BD5&height=14" height="14"> Participación en un equipo multidisciplinar con metodologías Agile/Scrum.
 
 ### **Freelance Web Developer**
 *2024 – 2025*
@@ -261,7 +261,7 @@ Trabajo con **Git/GitHub**, **Gitflow** y **Agile/Scrum**, participando desde la
 Estoy enfocada en seguir creciendo como **Software Developer / Full Stack Developer**, especialmente en proyectos donde pueda trabajar con Angular, TypeScript, Python, FastAPI, APIs, tiempo real e IA.
 
 <img src="https://api.iconify.design/ph/map-pin-line-fill.svg?color=%232FB5AE&height=18" height="16"> **Barcelona, España**  
-<img src="https://api.iconify.design/ph/briefcase-duotone.svg?color=%232FB5AE&height=18" height="16"> **Open to Junior Software Developer / Full Stack Developer opportunities**
+<img src="https://api.iconify.design/ph/briefcase-duotone.svg?color=%232FB5AE&height=18" height="16"> **Disponible para oportunidades como Junior Software Developer / Full Stack Developer en todo el mundo**
 
 <br/>
 

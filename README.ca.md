@@ -240,7 +240,7 @@ M'implico en tot el cicle de treball, des de la definició de requisits fins al 
 Estic centrada a continuar creixent com a **Software Developer / Full Stack Developer**, especialment en projectes on pugui treballar amb Angular, TypeScript, Python, FastAPI, APIs, temps real i IA.
 
 <img src="https://api.iconify.design/ph/map-pin-line-fill.svg?color=%232FB5AE&height=18" height="16"> **Barcelona, Espanya**  
-<img src="https://api.iconify.design/ph/briefcase-duotone.svg?color=%232FB5AE&height=18" height="16"> **Open to Junior Software Developer / Full Stack Developer opportunities**
+<img src="https://api.iconify.design/ph/briefcase-duotone.svg?color=%232FB5AE&height=18" height="16"> **Oberta a oportunitats com a Junior Software Developer / Full Stack Developer arreu del món**
 
 <br/>
 <div align="center">
