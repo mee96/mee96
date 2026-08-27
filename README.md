@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=c5b9f0&height=230&section=header&text=Carme%20Medina%20Canalda&fontColor=2d1b6e&fontSize=44&desc=Full%20Stack%20Developer&descSize=22&descColor=2d1b6e&descAlignY=66&fontAlignY=40" width="100%" alt="Carme Medina Canalda" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=21&pause=1300&color=B372CF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+FastAPI;Real-time+apps+%C2%B7+AI+%C2%B7+RAG;Transformando+ideas+en+productos" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=21&pause=1300&color=B372CF&center=true&vCenter=true&width=600&lines=Angular+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+FastAPI;Real-time+apps+%C2%B7+AI+%C2%B7+RAG;Transformando+ideas+en+productos" alt="typing" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-c5b9f0?style=for-the-badge&logoColor=2d1b6e)](https://carme-portfoli.onrender.com/)
 &nbsp;
