@@ -267,7 +267,7 @@ Estoy enfocada en seguir creciendo como **Software Developer / Full Stack Develo
 
 <div align="center">
 ¿Tienes un proyecto interesante? **Let's build it. 💜**  
-✉️ [dev.mee96@gmail.com](mailto:dev.mee96@gmail.com)
+✉️ [dev.mee96@gmail.com](mailto:dev.mee96@gmail.com) 
 
 <br/><br/>
 
