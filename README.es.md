@@ -1,3 +1,7 @@
+<!-- ╭──────────────────────────────────────────────╮ -->
+<!--            Carme Medina · GitHub profile         -->
+<!-- ╰──────────────────────────────────────────────╯ -->
+
 <div align="center">
 <a href="README.md"><img src="https://img.shields.io/badge/English-1b2e4b?style=flat-square" alt="English"></a>
 <a href="README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-a8c4f0?style=flat-square&logoColor=1b2e4b" alt="Español"></a>
@@ -22,15 +26,11 @@
 
 ## <img src="https://api.iconify.design/ph/user-circle-fill.svg?color=%23FF6FA8&height=24" height="22"> &nbsp;Sobre mí
 
-Soy desarrolladora **Full Stack** con foco en **Angular, TypeScript, Python y FastAPI**.
+Soy desarrolladora **Full Stack** con foco en **Angular, TypeScript, Python y FastAPI**. Construyo aplicaciones web de principio a fin: frontend, APIs REST, bases de datos, autenticación, tiempo real, integraciones con IA y despliegue cloud.
 
-Construyo aplicaciones web de principio a fin: **frontend, APIs REST, bases de datos, autenticación, aplicaciones en tiempo real, integraciones con IA y despliegue cloud**.
+Actualmente trabajo como **Junior Web Developer en Fundació Esplai – Talent IT**, desarrollando aplicaciones full stack e híbridas en un equipo multidisciplinar Agile.
 
-Actualmente trabajo como **Junior Web Developer en Fundació Esplai – Talent IT**, donde desarrollo aplicaciones full stack y soluciones híbridas con Angular, FastAPI, Python, MySQL e Ionic.
-
-Me interesa especialmente crear **aplicaciones en tiempo real, productos con IA/RAG y experiencias mobile-first**.
-
-Antes de dedicarme al desarrollo trabajé durante tres años como **técnica de laboratorio**, una experiencia que reforzó mi pensamiento analítico, precisión, resolución de problemas y atención al detalle.
+Antes de programar trabajé tres años como **técnica de laboratorio clínico**: de ahí vienen mi precisión, mi obsesión por la trazabilidad y mi atención al detalle.
 
 ### Qué construyo
 
@@ -40,30 +40,30 @@ Antes de dedicarme al desarrollo trabajé durante tres años como **técnica de 
 - <img src="https://api.iconify.design/ph/robot-duotone.svg?color=%23B372CF&height=18" height="16"> Integraciones con LLM y sistemas RAG
 - <img src="https://api.iconify.design/ph/device-mobile-camera-duotone.svg?color=%23B372CF&height=18" height="16"> Aplicaciones PWA y mobile-first
 - <img src="https://api.iconify.design/ph/lock-key-duotone.svg?color=%23B372CF&height=18" height="16"> Autenticación y gestión de usuarios
-- <img src="https://api.iconify.design/ph/database-duotone.svg?color=%23B372CF&height=18" height="16"> Aplicaciones conectadas a bases de datos SQL
-- <img src="https://api.iconify.design/ph/cloud-arrow-up-duotone.svg?color=%23B372CF&height=18" height="16"> Despliegue de frontend y backend en cloud
 
 <br/>
 
 ## <img src="https://api.iconify.design/ph/stack-fill.svg?color=%23B372CF&height=24" height="22"> &nbsp;Stack tecnológico
 
 ### Frontend
+
 ![Angular](https://img.shields.io/badge/Angular-c5b9f0?style=for-the-badge&logo=angular&logoColor=2d1b6e)
 ![TypeScript](https://img.shields.io/badge/TypeScript-b8e8d4?style=for-the-badge&logo=typescript&logoColor=2d1b6e)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0e4a0?style=for-the-badge&logo=javascript&logoColor=2d1b6e)
 ![React](https://img.shields.io/badge/React-f4b8d4?style=for-the-badge&logo=react&logoColor=2d1b6e)
-![Next.js](https://img.shields.io/badge/Next.js-a8c4f0?style=for-the-badge&logo=nextdotjs&logoColor=2d1b6e)
 ![Ionic](https://img.shields.io/badge/Ionic-c5b9f0?style=for-the-badge&logo=ionic&logoColor=2d1b6e)
 ![HTML5](https://img.shields.io/badge/HTML5-f4b8d4?style=for-the-badge&logo=html5&logoColor=2d1b6e)
 ![SCSS](https://img.shields.io/badge/SCSS-a8c4f0?style=for-the-badge&logo=sass&logoColor=2d1b6e)
 
 ### Backend
+
 ![Python](https://img.shields.io/badge/Python-c5b9f0?style=for-the-badge&logo=python&logoColor=2d1b6e)
 ![FastAPI](https://img.shields.io/badge/FastAPI-b8e8d4?style=for-the-badge&logo=fastapi&logoColor=2d1b6e)
 ![Node.js](https://img.shields.io/badge/Node.js-f0e4a0?style=for-the-badge&logo=nodedotjs&logoColor=2d1b6e)
 ![WebSockets](https://img.shields.io/badge/WebSockets-f4b8d4?style=for-the-badge&logo=socketdotio&logoColor=2d1b6e)
 
 ### Database, AI & Cloud
+
 ![MySQL](https://img.shields.io/badge/MySQL-c5b9f0?style=for-the-badge&logo=mysql&logoColor=2d1b6e)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-a8c4f0?style=for-the-badge&logo=postgresql&logoColor=2d1b6e)
 ![Firebase](https://img.shields.io/badge/Firebase-f0e4a0?style=for-the-badge&logo=firebase&logoColor=2d1b6e)
@@ -73,139 +73,65 @@ Antes de dedicarme al desarrollo trabajé durante tres años como **técnica de 
 ![Vercel](https://img.shields.io/badge/Vercel-a8c4f0?style=for-the-badge&logo=vercel&logoColor=2d1b6e)
 
 ### Tools & methodologies
+
 ![Git](https://img.shields.io/badge/Git-c5b9f0?style=for-the-badge&logo=git&logoColor=2d1b6e)
 ![GitHub](https://img.shields.io/badge/GitHub-f4b8d4?style=for-the-badge&logo=github&logoColor=2d1b6e)
-![Gitflow](https://img.shields.io/badge/Gitflow-a8c4f0?style=for-the-badge&logo=gitflow&logoColor=2d1b6e)
-![Agile](https://img.shields.io/badge/Agile-b8e8d4?style=for-the-badge&logo=b8e8d4)
+![Gitflow](https://img.shields.io/badge/Gitflow-a8c4f0?style=for-the-badge&logo=git&logoColor=2d1b6e)
+![Agile](https://img.shields.io/badge/Agile-b8e8d4?style=for-the-badge&logoColor=2d1b6e)
 ![Scrum](https://img.shields.io/badge/Scrum-f0e4a0?style=for-the-badge&logoColor=2d1b6e)
 
 <br/>
 
 ## <img src="https://api.iconify.design/ph/git-branch-fill.svg?color=%235B9BD5&height=24" height="22"> &nbsp;Cómo trabajo
 
-```text
-┌───────────────────────────────┐
-│       Angular / React         │
-│       TypeScript / JS         │
-└───────────────┬───────────────┘
-                │
-                ▼
-┌───────────────────────────────┐
-│     REST APIs / WebSockets    │
-└───────────────┬───────────────┘
-                │
-                ▼
-┌───────────────────────────────┐
-│     FastAPI / Python / Node   │
-└───────────────┬───────────────┘
-                │
-                ▼
-┌───────────────────────────────┐
-│    MySQL / PostgreSQL /       │
-│          Firebase             │
-└───────────────┬───────────────┘
-                │
-                ▼
-┌───────────────────────────────┐
-│       Render / Vercel         │
-└───────────────┴───────────────┘
-
-        AI layer
-   Groq · RAG · Qdrant
-```
-
-Trabajo con **Git/GitHub**, **Gitflow** y **Agile/Scrum**, participando desde la definición de requisitos hasta el desarrollo, integración y despliegue.
+- <img src="https://api.iconify.design/ph/git-branch-duotone.svg?color=%235B9BD5&height=18" height="16"> **Gitflow** — `main` / `develop` / `feature/*`; los cambios entran mediante pull requests
+- <img src="https://api.iconify.design/ph/git-commit-duotone.svg?color=%235B9BD5&height=18" height="16"> **Conventional Commits** — `feat:`, `fix:`, `chore:`… para un historial legible
+- <img src="https://api.iconify.design/ph/kanban-duotone.svg?color=%235B9BD5&height=18" height="16"> **Issues, labels y milestones** para planificar el trabajo por fases ([ver SkinCareApp](https://github.com/mee96/SkinCareApp/issues))
+- <img src="https://api.iconify.design/ph/users-three-duotone.svg?color=%235B9BD5&height=18" height="16"> **Agile/Scrum** en un equipo multidisciplinar, con ciclos de despliegue semanales
 
 <br/>
 
 ## <img src="https://api.iconify.design/ph/folder-simple-star-fill.svg?color=%232FB5AE&height=24" height="22"> &nbsp;Proyectos destacados
 
-### <img src="https://api.iconify.design/ph/chat-circle-dots-fill.svg?color=%23FF6FA8&height=20" height="18"> Chat Y2K — Real-time messaging + AI
-**Angular 21 · FastAPI · WebSockets · Qdrant · Groq**  
-*Aplicación de mensajería en tiempo real con salas privadas y grupales, asistente IA y chatbot RAG de gramática.*
-
-* <img src="https://api.iconify.design/ph/lightning-bold.svg?color=%23FF6FA8&height=14" height="14"> Comunicación bidireccional en tiempo real mediante WebSockets.
-* <img src="https://api.iconify.design/ph/chats-bold.svg?color=%23FF6FA8&height=14" height="14"> Salas privadas y grupales para distintos contextos de comunicación.
-* <img src="https://api.iconify.design/ph/robot-bold.svg?color=%23FF6FA8&height=14" height="14"> Incluye un asistente de IA y un chatbot RAG con Groq y Qdrant.
-* <img src="https://api.iconify.design/ph/link-bold.svg?color=%23FF6FA8&height=14" height="14"> Angular 21 y FastAPI conectados para coordinar la comunicación y la lógica de backend.
-
----
-
-### <img src="https://api.iconify.design/ph/plant-fill.svg?color=%232FB5AE&height=20" height="18"> Plantealo — AI plant care
-**Angular · FastAPI · PostgreSQL · Firebase · Groq · PWA**  
-*Aplicación mobile-first/PWA para identificar plantas mediante fotografía y proporcionar asistencia mediante IA.*
-
-* <img src="https://api.iconify.design/ph/device-mobile-bold.svg?color=%232FB5AE&height=14" height="14"> Aplicación PWA mobile-first creada con Angular y FastAPI.
-* <img src="https://api.iconify.design/ph/camera-bold.svg?color=%232FB5AE&height=14" height="14"> Identificación de plantas a partir de imágenes.
-* <img src="https://api.iconify.design/ph/sparkle-bold.svg?color=%232FB5AE&height=14" height="14"> Ofrece información personalizada sobre el cuidado de las plantas mediante IA.
-* <img src="https://api.iconify.design/ph/database-bold.svg?color=%232FB5AE&height=14" height="14"> Frontend, backend, PostgreSQL y servicios de IA integrados en una solución full stack.
-* <img src="https://api.iconify.design/ph/users-three-bold.svg?color=%232FB5AE&height=14" height="14"> Proyecto realizado en equipo.
-
----
-
 ### <img src="https://api.iconify.design/ph/sparkle-fill.svg?color=%23B372CF&height=20" height="18"> Portfolio v2 — AI assistant
-**Angular 21 · TypeScript · SCSS · FastAPI · RAG · Groq**  
-*Mi portfolio personal, construido como una aplicación full stack y acompañado de Bunsen, un asistente IA basado en RAG.*
+**Angular · TypeScript · SCSS · FastAPI · RAG · Groq**  
+*Mi portfolio personal con estética de placa de laboratorio y Bunsen, un asistente IA basado en RAG con respuestas en streaming por WebSockets.*
 
-* <img src="https://api.iconify.design/ph/translate-bold.svg?color=%23B372CF&height=14" height="14"> Aplicación multilingüe disponible en catalán, castellano e inglés.
-* <img src="https://api.iconify.design/ph/cpu-bold.svg?color=%23B372CF&height=14" height="14"> Asistente de IA propio basado en RAG.
-* <img src="https://api.iconify.design/ph/broadcast-bold.svg?color=%23B372CF&height=14" height="14"> Comunicación por streaming y WebSockets entre Angular y FastAPI.
-* <img src="https://api.iconify.design/ph/cloud-bold.svg?color=%23B372CF&height=14" height="14"> Frontend y backend desplegados en Render.
-* <img src="https://api.iconify.design/ph/layout-bold.svg?color=%23B372CF&height=14" height="14"> Interfaz responsive diseñada con la experiencia de usuario como prioridad.
+* <img src="https://api.iconify.design/ph/cpu-bold.svg?color=%23B372CF&height=14" height="14"> Asistente RAG propio que responde preguntas sobre mi perfil y mis proyectos.
+* <img src="https://api.iconify.design/ph/broadcast-bold.svg?color=%23B372CF&height=14" height="14"> Streaming en tiempo real entre Angular y FastAPI.
+* <img src="https://api.iconify.design/ph/translate-bold.svg?color=%23B372CF&height=14" height="14"> Multilingüe: catalán, castellano e inglés.
 
----
-
-### 🧋 BBT — BubbleTea API
-**Angular 21 · FastAPI · MySQL · Firebase Authentication**  
-*Aplicación CRUD full stack con catálogo de 53 productos, autenticación y panel de administración.*
-
-* <img src="https://api.iconify.design/ph/code-block-bold.svg?color=%23E0A63B&height=14" height="14"> Aplicación CRUD full stack creada con Angular 21, FastAPI y MySQL.
-* <img src="https://api.iconify.design/ph/package-bold.svg?color=%23E0A63B&height=14" height="14"> Catálogo de 53 productos gestionado mediante una API REST.
-* <img src="https://api.iconify.design/ph/shield-check-bold.svg?color=%23E0A63B&height=14" height="14"> Autenticación implementada con Firebase Authentication.
-* <img src="https://api.iconify.design/ph/sliders-horizontal-bold.svg?color=%23E0A63B&height=14" height="14"> Panel de administración para gestionar el catálogo.
-* <img src="https://api.iconify.design/ph/arrows-left-right-bold.svg?color=%23E0A63B&height=14" height="14"> Integración de frontend, API REST, base de datos y autenticación.
-
----
-
-### <img src="https://api.iconify.design/ph/game-controller-fill.svg?color=%235B9BD5&height=20" height="18"> Conecta 4 — Multiplayer + AI
-**Angular · FastAPI · WebSockets · Groq**  
-*Juego multijugador en tiempo real con oponente basado en IA.*
-
-* <img src="https://api.iconify.design/ph/game-controller-bold.svg?color=%235B9BD5&height=14" height="14"> Juego multijugador en tiempo real desarrollado con WebSockets.
-* <img src="https://api.iconify.design/ph/lightning-bold.svg?color=%235B9BD5&height=14" height="14"> Comunicación en tiempo real entre jugadores.
-* <img src="https://api.iconify.design/ph/robot-bold.svg?color=%235B9BD5&height=14" height="14"> Oponente basado en IA integrado mediante Groq.
-* <img src="https://api.iconify.design/ph/link-bold.svg?color=%235B9BD5&height=14" height="14"> Angular y FastAPI coordinan la lógica de la aplicación.
-
----
-
-### <img src="https://api.iconify.design/ph/moon-stars-fill.svg?color=%23B372CF&height=20" height="18"> Nikkura — Anime discovery
-**Angular · FastAPI · MySQL · Firebase**  
-*Aplicación para descubrir y organizar anime con usuarios, recomendaciones y personalización.*
-
-* <img src="https://api.iconify.design/ph/compass-bold.svg?color=%23B372CF&height=14" height="14"> Aplicación full stack desarrollada con Angular y FastAPI.
-* <img src="https://api.iconify.design/ph/user-gear-bold.svg?color=%23B372CF&height=14" height="14"> Diferentes roles de usuario para adaptar la experiencia.
-* <img src="https://api.iconify.design/ph/palette-bold.svg?color=%23B372CF&height=14" height="14"> Personalización mediante paletas y preferencias.
-* <img src="https://api.iconify.design/ph/database-bold.svg?color=%23B372CF&height=14" height="14"> Conexión con MySQL y Firebase.
+<img src="https://api.iconify.design/ph/github-logo-bold.svg?color=%23B372CF&height=14" height="14"> [Repo](https://github.com/mee96/portfoli.v2) &nbsp;·&nbsp; <img src="https://api.iconify.design/ph/globe-bold.svg?color=%23B372CF&height=14" height="14"> [Demo](https://carme-portfoli.onrender.com/)
 
 ---
 
 ### <img src="https://api.iconify.design/ph/drop-fill.svg?color=%23FF6FA8&height=20" height="18"> SkinCare App
-**Angular · FastAPI · Firebase · Groq**  
-*Aplicación para gestionar rutinas de skincare, calendario, stock y funcionalidades de IA.*
+**Angular · FastAPI · MySQL · Firebase · Groq · PWA**  
+*Gestor de rutinas K-beauty: rutina diaria, stock, wishlist, planificador mensual y escáner de productos con IA.*
 
-* <img src="https://api.iconify.design/ph/heartbeat-bold.svg?color=%23FF6FA8&height=14" height="14"> Gestión de rutinas y productos de skincare.
-* <img src="https://api.iconify.design/ph/calendar-blank-bold.svg?color=%23FF6FA8&height=14" height="14"> Calendario para el seguimiento de rutinas.
-* <img src="https://api.iconify.design/ph/scan-bold.svg?color=%23FF6FA8&height=14" height="14"> Escaneo de productos mediante IA.
-* <img src="https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?color=%23FF6FA8&height=14" height="14"> Internacionalización en catalán, castellano, inglés y coreano.
+* <img src="https://api.iconify.design/ph/scan-bold.svg?color=%23FF6FA8&height=14" height="14"> Reconocimiento de productos por foto con IA y un chat asesor que tiene en cuenta el perfil de piel.
+* <img src="https://api.iconify.design/ph/calendar-blank-bold.svg?color=%23FF6FA8&height=14" height="14"> Calendario con tipo de rutina por día y excepciones.
+* <img src="https://api.iconify.design/ph/globe-hemisphere-west-bold.svg?color=%23FF6FA8&height=14" height="14"> PWA instalable, traducida al catalán, castellano, inglés y coreano.
+
+<img src="https://api.iconify.design/ph/github-logo-bold.svg?color=%23FF6FA8&height=14" height="14"> [Repo](https://github.com/mee96/SkinCareApp) &nbsp;·&nbsp; <img src="https://api.iconify.design/ph/globe-bold.svg?color=%23FF6FA8&height=14" height="14"> [Demo](https://skincareapp-5h8e.onrender.com)
 
 ---
 
-### <img src="https://api.iconify.design/ph/cat-fill.svg?color=%23E0A63B&height=20" height="18"> PURR Skills
-**HTML5 · CSS3 · JavaScript**  
-*Proyecto colaborativo desarrollado durante el Bootcamp Full Stack Web de Adalab.*
+### <img src="https://api.iconify.design/ph/chat-circle-dots-fill.svg?color=%232FB5AE&height=20" height="18"> Chat Y2K — Real-time messaging + AI
+**Angular 21 · FastAPI · WebSockets · Qdrant · Groq**  
+*Aplicación de mensajería en tiempo real con salas privadas y grupales, asistente IA y chatbot RAG de gramática.*
 
-* <img src="https://api.iconify.design/ph/identification-card-bold.svg?color=%23E0A63B&height=14" height="14"> Aplicación web para generar fichas de personajes de juegos de rol.
-* <img src="https://api.iconify.design/ph/users-bold.svg?color=%23E0A63B&height=14" height="14"> Colaboración en equipo con HTML, CSS y JavaScript.
+* <img src="https://api.iconify.design/ph/lightning-bold.svg?color=%232FB5AE&height=14" height="14"> Comunicación bidireccional en tiempo real con WebSockets.
+* <img src="https://api.iconify.design/ph/chats-bold.svg?color=%232FB5AE&height=14" height="14"> Salas privadas y grupales.
+* <img src="https://api.iconify.design/ph/robot-bold.svg?color=%232FB5AE&height=14" height="14"> Asistente IA y chatbot RAG con Groq y Qdrant.
+
+<img src="https://api.iconify.design/ph/github-logo-bold.svg?color=%232FB5AE&height=14" height="14"> [Repo](https://github.com/mee96/Chat)
+
+### Más proyectos
+
+* <img src="https://api.iconify.design/ph/plant-fill.svg?color=%232FB5AE&height=14" height="14"> **[Plantealo](https://github.com/AlmaQm/Plantealo)** — PWA mobile-first que identifica plantas por foto con IA *(proyecto en equipo)*
+* 🧋 **[BBT](https://github.com/mee96/BBT)** — CRUD full stack con catálogo de 53 productos, auth con Firebase y panel de administración
+* <img src="https://api.iconify.design/ph/game-controller-fill.svg?color=%235B9BD5&height=14" height="14"> **Conecta 4** — Juego multijugador en tiempo real con oponente IA
 
 <br/>
 
@@ -213,67 +139,34 @@ Trabajo con **Git/GitHub**, **Gitflow** y **Agile/Scrum**, participando desde la
 
 ### **Junior Web Developer** · *Fundació Esplai – Talent IT*
 *Mar 2026 – Presente*
-* <img src="https://api.iconify.design/ph/code-bold.svg?color=%235B9BD5&height=14" height="14"> Desarrollo de aplicaciones full stack con Angular, FastAPI, Python y MySQL.
-* <img src="https://api.iconify.design/ph/device-mobile-bold.svg?color=%235B9BD5&height=14" height="14"> Soluciones híbridas desarrolladas con Ionic.
-* <img src="https://api.iconify.design/ph/browsers-bold.svg?color=%235B9BD5&height=14" height="14"> Rediseño de una web orientada a la transformación digital del tercer sector.
-* <img src="https://api.iconify.design/ph/wrench-bold.svg?color=%235B9BD5&height=14" height="14"> Mantenimiento y personalización de sitios WordPress mediante PHP.
-* <img src="https://api.iconify.design/ph/arrows-clockwise-bold.svg?color=%235B9BD5&height=14" height="14"> Trabajo con Git/GitHub y ciclos de despliegue semanales.
-* <img src="https://api.iconify.design/ph/kanban-bold.svg?color=%235B9BD5&height=14" height="14"> Participación en un equipo multidisciplinar con metodologías Agile/Scrum.
 
-### **Freelance Web Developer**
-*2024 – 2025*
-* <img src="https://api.iconify.design/ph/desktop-bold.svg?color=%235B9BD5&height=14" height="14"> Diseño, desarrollo y despliegue de una web responsive para cliente privado.
-* <img src="https://api.iconify.design/ph/file-code-bold.svg?color=%235B9BD5&height=14" height="14"> Desarrollo frontend con HTML, CSS y JavaScript.
-* <img src="https://api.iconify.design/ph/cloud-check-bold.svg?color=%235B9BD5&height=14" height="14"> Despliegue y publicación mediante Vercel.
+* <img src="https://api.iconify.design/ph/code-bold.svg?color=%235B9BD5&height=14" height="14"> Desarrollo full stack con Angular, FastAPI, Python y MySQL, y apps híbridas con Ionic.
+* <img src="https://api.iconify.design/ph/browsers-bold.svg?color=%235B9BD5&height=14" height="14"> Rediseño web y mantenimiento WordPress/PHP para la transformación digital del tercer sector.
+* <img src="https://api.iconify.design/ph/arrows-clockwise-bold.svg?color=%235B9BD5&height=14" height="14"> Trabajo diario con Git/GitHub, Agile/Scrum y ciclos de despliegue semanales.
 
-### **Técnica de Laboratorio** · *Reference Laboratory / Synlab / Unilabs*
-*2021 – 2024*
-* <img src="https://api.iconify.design/ph/test-tube-bold.svg?color=%235B9BD5&height=14" height="14"> Realización de análisis especializados RIA/EIA.
-* <img src="https://api.iconify.design/ph/clipboard-text-bold.svg?color=%235B9BD5&height=14" height="14"> Gestión de muestras y seguimiento de protocolos.
-* <img src="https://api.iconify.design/ph/target-bold.svg?color=%235B9BD5&height=14" height="14"> Trabajo en entornos donde la precisión, trazabilidad y atención al detalle eran fundamentales.
-
-### **Agente de Soporte Técnico** · *Teleperformance*
-*2019 – 2021*
-* <img src="https://api.iconify.design/ph/headset-bold.svg?color=%235B9BD5&height=14" height="14"> Atención y soporte técnico a usuarios.
-* <img src="https://api.iconify.design/ph/gear-six-bold.svg?color=%235B9BD5&height=14" height="14"> Diagnóstico y resolución de incidencias.
-* <img src="https://api.iconify.design/ph/check-square-offset-bold.svg?color=%235B9BD5&height=14" height="14"> Gestión de tareas de back office y seguimiento de casos.
-
-<br/>
-
-## <img src="https://api.iconify.design/ph/graduation-cap-fill.svg?color=%23B372CF&height=24" height="22"> &nbsp;Formación
-- **FPO Dual Full Stack Developer** — Fundació Esplai – Talent IT *(2026)*
-- **Fundamentos de Programación / Java** — IT Academy *(2026)*
-- **Introducción a Big Data & IA** — IOE Business School *(2026)*
-- **Full Stack Web Development Bootcamp** — Adalab *(2024)*
-- **CFGS Fabricación de Productos Farmacéuticos y Biotecnológicos** — INS Severo Ochoa *(2022)*
-- **CFGS Laboratorio Clínico y Biomédico** — Escola Ramon i Cajal *(2020)*
-
-<br/>
-
-## <img src="https://api.iconify.design/ph/translate-fill.svg?color=%23FF6FA8&height=24" height="22"> &nbsp;Idiomas
-- **Castellano** — Nativo
-- **Catalán** — Nativo
-- **Inglés** — Avanzado
+<img src="https://api.iconify.design/ph/linkedin-logo-bold.svg?color=%235B9BD5&height=14" height="14"> Experiencia y formación completas en [LinkedIn](https://www.linkedin.com/in/carme-medina-canalda-250457132/).
 
 <br/>
 
 ## <img src="https://api.iconify.design/ph/rocket-launch-fill.svg?color=%232FB5AE&height=24" height="22"> &nbsp;Ahora mismo
-Estoy enfocada en seguir creciendo como **Software Developer / Full Stack Developer**, especialmente en proyectos donde pueda trabajar con Angular, TypeScript, Python, FastAPI, APIs, tiempo real e IA.
 
+<img src="https://api.iconify.design/ph/moon-stars-fill.svg?color=%23B372CF&height=18" height="16"> Desarrollando **Nikkura**, una app para descubrir anime (Angular · FastAPI · MySQL · Firebase), planificada con issues y tablero de proyecto desde el primer día.  
 <img src="https://api.iconify.design/ph/map-pin-line-fill.svg?color=%232FB5AE&height=18" height="16"> **Barcelona, España**  
-<img src="https://api.iconify.design/ph/briefcase-duotone.svg?color=%232FB5AE&height=18" height="16"> **Disponible para oportunidades como Junior Software Developer / Full Stack Developer en todo el mundo**
+<img src="https://api.iconify.design/ph/briefcase-duotone.svg?color=%232FB5AE&height=18" height="16"> **Abierta a puestos de Junior Software / Full Stack Developer**, presencial en España o en remoto
 
 <br/>
 
 <div align="center">
-¿Tienes un proyecto interesante? **Let's build it. 💜**  
-✉️ [dev.mee96@gmail.com](mailto:dev.mee96@gmail.com) 
 
-<br/><br/>
+¿Tienes un proyecto interesante? **Let's build it. 💜**  
+✉️ [dev.mee96@gmail.com](mailto:dev.mee96@gmail.com)
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=mee96&color=c5b9f0&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=c5b9f0&height=110&section=footer" width="100%" alt="footer" />
+
 </div>
