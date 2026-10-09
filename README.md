@@ -125,7 +125,7 @@ Before coding, I spent three years as a **clinical laboratory technician** — t
 * <img src="https://api.iconify.design/ph/chats-bold.svg?color=%232FB5AE&height=14" height="14"> Private and group rooms.
 * <img src="https://api.iconify.design/ph/robot-bold.svg?color=%232FB5AE&height=14" height="14"> AI assistant and RAG chatbot built with Groq and Qdrant.
 
-<img src="https://api.iconify.design/ph/github-logo-bold.svg?color=%232FB5AE&height=14" height="14"> [Repo](https://github.com/mee96/Chat)
+<img src="https://api.iconify.design/ph/github-logo-bold.svg?color=%232FB5AE&height=14" height="14"> [Repo](https://github.com/mee96/Chat) &nbsp;·&nbsp; <img src="https://api.iconify.design/ph/globe-bold.svg?color=%232FB5AE&height=14" height="14"> [Live demo](https://chat-frontend-o57q.onrender.com/)
 
 ### More projects
 

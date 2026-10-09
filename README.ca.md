@@ -125,7 +125,7 @@ Abans de programar vaig treballar tres anys com a **tècnica de laboratori clín
 * <img src="https://api.iconify.design/ph/chats-bold.svg?color=%232FB5AE&height=14" height="14"> Sales privades i grupals.
 * <img src="https://api.iconify.design/ph/robot-bold.svg?color=%232FB5AE&height=14" height="14"> Assistent d'IA i chatbot RAG amb Groq i Qdrant.
 
-<img src="https://api.iconify.design/ph/github-logo-bold.svg?color=%232FB5AE&height=14" height="14"> [Repo](https://github.com/mee96/Chat)
+<img src="https://api.iconify.design/ph/github-logo-bold.svg?color=%232FB5AE&height=14" height="14"> [Repo](https://github.com/mee96/Chat) &nbsp;·&nbsp; <img src="https://api.iconify.design/ph/globe-bold.svg?color=%232FB5AE&height=14" height="14"> [Demo](https://chat-frontend-o57q.onrender.com/)
 
 ### Més projectes
 

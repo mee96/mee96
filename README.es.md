@@ -125,7 +125,7 @@ Antes de programar trabajé tres años como **técnica de laboratorio clínico**
 * <img src="https://api.iconify.design/ph/chats-bold.svg?color=%232FB5AE&height=14" height="14"> Salas privadas y grupales.
 * <img src="https://api.iconify.design/ph/robot-bold.svg?color=%232FB5AE&height=14" height="14"> Asistente IA y chatbot RAG con Groq y Qdrant.
 
-<img src="https://api.iconify.design/ph/github-logo-bold.svg?color=%232FB5AE&height=14" height="14"> [Repo](https://github.com/mee96/Chat)
+<img src="https://api.iconify.design/ph/github-logo-bold.svg?color=%232FB5AE&height=14" height="14"> [Repo](https://github.com/mee96/Chat) &nbsp;·&nbsp; <img src="https://api.iconify.design/ph/globe-bold.svg?color=%232FB5AE&height=14" height="14"> [Demo](https://chat-frontend-o57q.onrender.com/)
 
 ### Más proyectos
 
